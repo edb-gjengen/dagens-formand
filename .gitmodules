@@ -1,3 +1,15 @@
 [submodule "wp"]
 	path = wp
 	url = git://github.com/WordPress/WordPress.git
+[submodule "content/jetpack"]
+	path = content/jetpack
+	url = gh:automattic/jetpack
+[submodule "google-analytics-for-wordpress"]
+	path = google-analytics-for-wordpress
+	url = gh:Yoast/google-analytics-for-wordpress
+[submodule "content/infinite-scroll"]
+	path = content/infinite-scroll
+	url = gh:paulirish/infinite-scroll
+[submodule "content/themes/decode"]
+	path = content/themes/decode
+	url = gh:ScottSmith95/Decode
